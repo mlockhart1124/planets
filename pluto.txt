@@ -1,4 +1,8 @@
 It is so a planet!
 NO IT IS NOT
 YOUR ARE A LIAR!!!!!!!!!!!!!!!!!!!
+<<<<<<< HEAD
 you are delusional
+=======
+Conflict you are having?
+>>>>>>> d69fbfeeabbea71dde1abfca29f4ae8e531fef74
